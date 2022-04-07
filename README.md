@@ -1,2 +1,1 @@
 # <RestMe
-## author: dubskysteam:>
